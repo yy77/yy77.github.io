@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Started as a programmer and interested in this field.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+来自上海。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yang.ye.cn@gmail.com](mailto:yang.ye.cn@gmail.com)
